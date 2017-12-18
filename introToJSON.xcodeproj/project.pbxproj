@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1ED1039E1FE842C100DF4960 /* ricardo.json in Resources */ = {isa = PBXBuildFile; fileRef = 1ED1039D1FE842C100DF4960 /* ricardo.json */; };
+		1ED103A11FE8477100DF4960 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ED103A01FE8477100DF4960 /* TableViewController.m */; };
+		1ED103A41FE84A1900DF4960 /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ED103A31FE84A1900DF4960 /* TableViewCell.m */; };
 		CB9ACB1F1FDF507000326982 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9ACB1E1FDF507000326982 /* AppDelegate.m */; };
 		CB9ACB221FDF507000326982 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9ACB211FDF507000326982 /* ViewController.m */; };
 		CB9ACB251FDF507000326982 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB9ACB231FDF507000326982 /* Main.storyboard */; };
@@ -16,6 +19,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1ED1039D1FE842C100DF4960 /* ricardo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ricardo.json; path = ../../ricardo.json; sourceTree = "<group>"; };
+		1ED1039F1FE8477100DF4960 /* TableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		1ED103A01FE8477100DF4960 /* TableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		1ED103A21FE84A1900DF4960 /* TableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		1ED103A31FE84A1900DF4960 /* TableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
 		CB9ACB1A1FDF507000326982 /* introToJSON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = introToJSON.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB9ACB1D1FDF507000326982 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		CB9ACB1E1FDF507000326982 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -58,8 +66,11 @@
 		CB9ACB1C1FDF507000326982 /* introToJSON */ = {
 			isa = PBXGroup;
 			children = (
+				1ED1039D1FE842C100DF4960 /* ricardo.json */,
 				CB9ACB1D1FDF507000326982 /* AppDelegate.h */,
 				CB9ACB1E1FDF507000326982 /* AppDelegate.m */,
+				1ED1039F1FE8477100DF4960 /* TableViewController.h */,
+				1ED103A01FE8477100DF4960 /* TableViewController.m */,
 				CB9ACB201FDF507000326982 /* ViewController.h */,
 				CB9ACB211FDF507000326982 /* ViewController.m */,
 				CB9ACB231FDF507000326982 /* Main.storyboard */,
@@ -67,6 +78,8 @@
 				CB9ACB281FDF507000326982 /* LaunchScreen.storyboard */,
 				CB9ACB2B1FDF507000326982 /* Info.plist */,
 				CB9ACB2C1FDF507000326982 /* main.m */,
+				1ED103A21FE84A1900DF4960 /* TableViewCell.h */,
+				1ED103A31FE84A1900DF4960 /* TableViewCell.m */,
 			);
 			path = introToJSON;
 			sourceTree = "<group>";
@@ -129,6 +142,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1ED1039E1FE842C100DF4960 /* ricardo.json in Resources */,
 				CB9ACB2A1FDF507000326982 /* LaunchScreen.storyboard in Resources */,
 				CB9ACB271FDF507000326982 /* Assets.xcassets in Resources */,
 				CB9ACB251FDF507000326982 /* Main.storyboard in Resources */,
@@ -145,6 +159,8 @@
 				CB9ACB221FDF507000326982 /* ViewController.m in Sources */,
 				CB9ACB2D1FDF507000326982 /* main.m in Sources */,
 				CB9ACB1F1FDF507000326982 /* AppDelegate.m in Sources */,
+				1ED103A41FE84A1900DF4960 /* TableViewCell.m in Sources */,
+				1ED103A11FE8477100DF4960 /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
