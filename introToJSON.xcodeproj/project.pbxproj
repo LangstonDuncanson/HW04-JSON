@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1ED1039D1FE842C100DF4960 /* ricardo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ricardo.json; path = ../../ricardo.json; sourceTree = "<group>"; };
+		1ED1039D1FE842C100DF4960 /* ricardo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ricardo.json; sourceTree = "<group>"; };
 		1ED1039F1FE8477100DF4960 /* TableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
 		1ED103A01FE8477100DF4960 /* TableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 		1ED103A21FE84A1900DF4960 /* TableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };

@@ -1,0 +1,268 @@
+[
+      {
+      "accountAvailable": "-9,677.81",
+      "accountBalance": "-9,677.81",
+      "accountCurrency": "USD",
+      "accountNumber": "6102",
+      "accountType": "SAV"
+   },
+      {
+      "accountAvailable": "172,551.13",
+      "accountBalance": "172,551.13",
+      "accountCurrency": "USD",
+      "accountNumber": "2200000190",
+      "accountType": "SAV"
+   },
+      {
+      "accountAvailable": "-9,735.00",
+      "accountBalance": "-9,735.00",
+      "accountCurrency": "USD",
+      "accountNumber": "250100000001",
+      "accountType": "SAV"
+   },
+      {
+      "accountAvailable": "49,978.50",
+      "accountBalance": "49,978.50",
+      "accountCurrency": "CLP",
+      "accountNumber": "2100000229",
+      "accountType": "DDA"
+   },
+      {
+      "accountAvailable": "26,053.00",
+      "accountBalance": "1,053.00",
+      "accountCurrency": "CLP",
+      "accountNumber": "2100000230",
+      "accountType": "DDA"
+   },
+      {
+      "accountAvailable": "8,070.57",
+      "accountBalance": "8,090.57",
+      "accountCurrency": "EUR",
+      "accountNumber": "2100000168",
+      "accountType": "DDA"
+   },
+      {
+      "accountAvailable": "3,000.78",
+      "accountBalance": "6,746.78",
+      "accountCurrency": "USD",
+      "accountNumber": "2100000165",
+      "accountType": "DDA"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "50,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "9029",
+      "accountType": "CDS"
+   },
+      {
+      "accountAvailable": "4,097.23",
+      "accountBalance": "4,097.23",
+      "accountCurrency": "USD",
+      "accountNumber": "1121000003",
+      "accountType": "NOW"
+   },
+      {
+      "accountAvailable": "226,153.37",
+      "accountBalance": "7,586,341.65",
+      "accountCurrency": "USD",
+      "accountNumber": "1121000001",
+      "accountType": "NOW"
+   },
+      {
+      "accountAvailable": "8.42",
+      "accountBalance": "1,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "445000000002",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "132.62",
+      "accountBalance": "8,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "445000000010",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "25,000.00",
+      "accountCurrency": "EUR",
+      "accountNumber": "2300000137",
+      "accountType": "CDS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "555,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "2300000130",
+      "accountType": "CDS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "125,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "2300000131",
+      "accountType": "CDS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "50,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "2300000132",
+      "accountType": "CDS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "100,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "2300000177",
+      "accountType": "CDS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "100,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "2300000147",
+      "accountType": "CDS"
+   },
+      {
+      "accountAvailable": "-286.80",
+      "accountBalance": "7,056.03",
+      "accountCurrency": "USD",
+      "accountNumber": "1450000044",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "100,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "1450000047",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "1,000.00",
+      "accountBalance": "100,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "1450000050",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "12,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "112233",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "-943.92",
+      "accountBalance": "2,313.92",
+      "accountCurrency": "USD",
+      "accountNumber": "1470000192",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "-2,025.75",
+      "accountBalance": "992,045.75",
+      "accountCurrency": "USD",
+      "accountNumber": "1470000683",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "-700.85",
+      "accountBalance": "20,695.85",
+      "accountCurrency": "USD",
+      "accountNumber": "8963",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "500,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "9030",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "500,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "9031",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "-3,528.76",
+      "accountBalance": "348,518.76",
+      "accountCurrency": "USD",
+      "accountNumber": "1470000997",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "100,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "1470001000",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "1,000,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "8980",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "-19,894.58",
+      "accountBalance": "299,799.00",
+      "accountCurrency": "USD",
+      "accountNumber": "1470000180",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "-2.77",
+      "accountBalance": "960.77",
+      "accountCurrency": "USD",
+      "accountNumber": "1460000059",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "-430.56",
+      "accountBalance": "99,430.56",
+      "accountCurrency": "USD",
+      "accountNumber": "1460000060",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "-362.08",
+      "accountBalance": "86.33",
+      "accountCurrency": "USD",
+      "accountNumber": "1410000020",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "-4,061.99",
+      "accountBalance": "0.00",
+      "accountCurrency": "USD",
+      "accountNumber": "1410000021",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "0.00",
+      "accountBalance": "1,200,000.00",
+      "accountCurrency": "USD",
+      "accountNumber": "123404",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "-6,402.94",
+      "accountBalance": "148,402.90",
+      "accountCurrency": "USD",
+      "accountNumber": "123406",
+      "accountType": "LNS"
+   },
+      {
+      "accountAvailable": "27,500.00",
+      "accountBalance": "2,500.00",
+      "accountCurrency": "USD",
+      "accountNumber": "4899526398658596",
+      "accountType": "CCR"
+   }
+]
